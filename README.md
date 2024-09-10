@@ -13,4 +13,4 @@ This line is edited from github from 3rd time.
 
 This line is edited from local for 2nd time.
 
-This line is editad from githum for 4th time.
+This line is editad from github for 4th time.
